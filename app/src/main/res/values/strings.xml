@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">androidSete</string>
+    <string name="hello" translatable="false">Olá, mundo! 🇧🇷 </string>
+</resources>
